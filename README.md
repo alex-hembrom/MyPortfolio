@@ -28,3 +28,20 @@ If you'd like to run this project on your local machine, follow these steps:
 **1. Clone the repository:**
 ```bash
 git clone [https://github.com/alex-hembrom/MyPortfolio.git](https://github.com/alex-hembrom/MyPortfolio.git)
+2. Navigate to the project directory:
+cd MyPortfolio
+3. Install dependencies:
+npm install
+4. Start the development server:
+npm run dev
+
+📫 Connect With Me
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+Email: hembromalex431@gmail.com
+
+LinkedIn: linkedin.com/in/alex-hembrom
+
+GitHub: github.com/alex-hembrom
+
+Designed & Built by Alex Hembrom © 2026
