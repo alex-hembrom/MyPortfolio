@@ -5,15 +5,12 @@ import mongoIcon from './assets/mongodb_icon.png';
 import firebaseIcon from './assets/Firebase.png';
 import Portfolioimage from './assets/Portfolioimage.png';
 
-// Project Screenshots Imports
+
 import sutraImg from './assets/sutra.png';
 import cryptoWalletImg from './assets/CryptoWallet.jpeg';
 import trafficImg from './assets/Traffic.png';
 import honeypotImg from './assets/Honeypot.png';
 
-// -------------------------------------------------------------
-// EMAILJS CONFIGURATION (Using your provided keys)
-// -------------------------------------------------------------
 const EMAILJS_SERVICE_ID = "service_whm7bgq";
 const EMAILJS_TEMPLATE_ID = "template_yxz5k6b";
 const EMAILJS_PUBLIC_KEY = "IKwe91pEY3uZknFI_";
@@ -216,8 +213,8 @@ function App() {
                    alt="Alex Hembrom" 
                    className="w-full h-full object-cover object-top transition-transform duration-500 hover:scale-105" 
                    style={{
-                     WebkitMaskImage: 'radial-gradient(circle at 50% 45%, black 40%, transparent 80%)',
-                     maskImage: 'radial-gradient(circle at 50% 45%, black 40%, transparent 80%)'
+                     WebkitMaskImage: 'radial-gradient(circle at 50% 30%, black 60%, transparent 90%)',
+                     maskImage: 'radial-gradient(circle at 50% 30%, black 60%, transparent 90%)'
                    }}
                  />
               </div>
