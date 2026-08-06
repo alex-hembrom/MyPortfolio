@@ -1,16 +1,30 @@
-# React + Vite
+# Alex Hembrom | Personal Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the repository for my personal portfolio website! This project serves as a centralized hub to showcase my technical skills, software engineering projects, and academic achievements. 
 
-Currently, two official plugins are available:
+**🔗 [View Live Demo](https://your-live-portfolio-link.vercel.app)** *(Update this with your actual Vercel link once deployed)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+* **Modern Dark UI:** A sleek, corporate aesthetic utilizing glassmorphism, dynamic gradient glows, and custom SVG radial masks.
+* **Cinematic Animations:** Features sequential blur-fade reveals and synchronized typing effects for a highly engaging user experience.
+* **Zero-Gravity Background:** A customized, floating background utilizing raw SVG paths and CSS keyframes to create a smooth, multi-directional space effect.
+* **Functional Contact Form:** Fully integrated with **EmailJS** to allow visitors and recruiters to send messages directly to my inbox without a backend server.
+* **Fully Responsive:** Includes a custom mobile navigation drawer, ensuring a seamless experience across all desktop, tablet, and mobile devices.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack Used
 
-## Expanding the ESLint configuration
+This portfolio was designed and developed entirely from scratch using:
+* **Frontend:** React.js, HTML5, JavaScript (ES6+)
+* **Styling:** Tailwind CSS (Utility-first CSS framework)
+* **Build Tool:** Vite (for fast, optimized bundling)
+* **Integrations:** EmailJS (Client-side email handling)
+* **Deployment:** Vercel / GitHub Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Running the Project Locally
+
+If you'd like to run this project on your local machine, follow these steps:
+
+**1. Clone the repository:**
+```bash
+git clone [https://github.com/alex-hembrom/MyPortfolio.git](https://github.com/alex-hembrom/MyPortfolio.git)
