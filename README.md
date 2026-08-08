@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal portfolio website! This project serves as a centralized hub to showcase my technical skills, software engineering projects, and academic achievements. 
 
-**🔗 [View Live Demo](https://your-live-portfolio-link.vercel.app)** *(Update this with your actual Vercel link once deployed)*
+**🔗 [View Live Demo](https://my-portfolio-ten-rho-81.vercel.app/)** *(Update this with your actual Vercel link once deployed)*
 
 ## ✨ Features
 
